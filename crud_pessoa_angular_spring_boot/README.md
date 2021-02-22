@@ -3,7 +3,7 @@ Projeto Web em Angular e projeto de api de back-end em spring boot.
 
 # Comandos usados para Angular
 
-1 - Comando para criar o projeto:
+1 - Comando para criar o projeto:<br/>
 ng new crudpessoa-frontend
 
 2 - Comando usado para criar os componentes:
