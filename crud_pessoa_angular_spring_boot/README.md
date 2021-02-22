@@ -30,5 +30,6 @@ https://www.npmjs.com/package/ngx-currency
 Projeto para se trabalhar com conversão de string para modeles de datas e de datas para string, usado para pegar a data do formulário angular e transformar em uma data no formato da java.util.Date que o Java já esperava nativamente.<br/>
 https://github.com/urish/ngx-moment
 
-
+Vídeo do Youtube com comentário sobre a poc, sobre o código.<br/>
+https://youtu.be/YFLSB5A_0jA
 
