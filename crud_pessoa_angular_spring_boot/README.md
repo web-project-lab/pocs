@@ -1,7 +1,7 @@
-# pocs
+# POCS
 Projeto Web em Angular e projeto de api de back-end em spring boot.
 
-# Comandos usados para angular
+# Comandos usados para Angular
 
 1 - Comando para criar o projeto:
 ng new crudpessoa-frontend
