@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+createtable.js
+express_testes/app.js
+express_testes/package-lock.json
+express_testes/package.json
+.gitignore
